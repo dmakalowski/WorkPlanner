@@ -5,6 +5,7 @@
         /// <summary>
         ///  Required designer variable.
         /// </summary>
+        /// Comment added as a commit test.
         private System.ComponentModel.IContainer components = null;
 
         /// <summary>
